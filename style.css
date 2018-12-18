@@ -62,7 +62,7 @@ body{
 }
 
 #black{
-    background-image:url("./images/img-mission-background.jpg ");
+    background-image:url("./cozy3/images/img-mission-background.jpg");
     margin:30px;
     background-color:black;
    
@@ -113,7 +113,7 @@ justify-content: space-between;
 }
 
 .section2{
-    background-image:url("./images/img-locations-background.jpg");
+    background-image:url("./cozy3/images/img-locations-background.jpg");
    height: 500px;
    flex-direction: column;
   justify-content: center;
